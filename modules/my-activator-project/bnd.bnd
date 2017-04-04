@@ -1,0 +1,4 @@
+Bundle-Activator: com.liferay.docs.activator.Activator
+Bundle-Name: my-activator-project
+Bundle-SymbolicName: com.liferay.docs.activator
+Bundle-Version: 1.0.0

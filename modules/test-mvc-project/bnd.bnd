@@ -1,0 +1,3 @@
+Bundle-Name: test-mvc-project
+Bundle-SymbolicName: com.liferay.projecttest.test
+Bundle-Version: 1.0.0
